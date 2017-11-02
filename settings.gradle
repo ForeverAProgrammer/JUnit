@@ -1,1 +1,1 @@
-include 'simple-junit-unit-test'
+include 'simple-junit-unit-test','junit-demo'

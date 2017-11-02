@@ -8,7 +8,7 @@ class BasicUnitTest {
 
 	@Test
 	void myFirstTest() {
-		assertEquals(4, 2 + 2);
+	        assertEquals(4, 2 + 2);
 	}
 
 }
